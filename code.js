@@ -1,6 +1,6 @@
 figma.showUI(__html__, {
-    width: 320,
-    height: 505
+    width: 330,
+    height: 535
 });
 //utilities
 // https://stackoverflow.com/questions/36721830/convert-hsl-to-rgb-and-hex/54014428#54014428
